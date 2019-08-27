@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-import "https://github.com/cryptoinvest/token/blob/master/ibgERC20Basic";
+//import "https://github.com/cryptoinvest/token/blob/master/ibgERC20Basic";
 
 library SafeMath {
 
