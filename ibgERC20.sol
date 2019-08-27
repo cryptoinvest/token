@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-import "https://github.com/cryptoinvest/token/blob/master/ibgERC20Basic.sol";
+//import "https://github.com/cryptoinvest/token/blob/master/ibgERC20Basic.sol";
 
 contract ERC20 is ERC20Basic {
   function allowance(address owner, address spender)
