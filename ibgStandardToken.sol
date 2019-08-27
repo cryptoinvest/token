@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-import "https://github.com/cryptoinvest/token/blob/master/ibgERC20";
-import "https://github.com/cryptoinvest/token/blob/master/ibgBasicToken";
+import "https://github.com/cryptoinvest/token/blob/master/ibgERC20.sol";
+import "https://github.com/cryptoinvest/token/blob/master/ibgBasicToken.sol";
 
 contract StandardToken is ERC20, BasicToken {
 
